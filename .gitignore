@@ -1,0 +1,10 @@
+# ignore directories
+node_modules/
+# ignore IDE's files/directories
+.idea
+# ignore files
+package-lock.json
+yarn.lock
+*.lock
+*.log
+mix-manifest.json

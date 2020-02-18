@@ -1,0 +1,794 @@
+[
+    {
+        "ID": 27,
+        "TITLE": "\u0623\u0630\u0643\u0627\u0631 \u0627\u0644\u0635\u0628\u0627\u062d \u0648\u0627\u0644\u0645\u0633\u0627\u0621",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_028.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/27.json"
+    },
+    {
+        "ID": 28,
+        "TITLE": "\u0623\u0630\u0643\u0627\u0631 \u0627\u0644\u0646\u0648\u0645",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_029.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/28.json"
+    },
+    {
+        "ID": 1,
+        "TITLE": "\u0623\u0630\u0643\u0627\u0631 \u0627\u0644\u0627\u0633\u062a\u064a\u0642\u0627\u0638 \u0645\u0646 \u0627\u0644\u0646\u0648\u0645",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_002.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/1.json"
+    },
+    {
+        "ID": 6,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u062f\u062e\u0648\u0644 \u0627\u0644\u062e\u0644\u0627\u0621",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_007.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/6.json"
+    },
+    {
+        "ID": 7,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0627\u0644\u062e\u0631\u0648\u062c \u0645\u0646 \u0627\u0644\u062e\u0644\u0627\u0621",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_008.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/7.json"
+    },
+    {
+        "ID": 8,
+        "TITLE": "\u0627\u0644\u0630\u0643\u0631 \u0642\u0628\u0644 \u0627\u0644\u0648\u0636\u0648\u0621",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_009.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/8.json"
+    },
+    {
+        "ID": 9,
+        "TITLE": "\u0627\u0644\u0630\u0643\u0631 \u0628\u0639\u062f \u0627\u0644\u0641\u0631\u0627\u063a \u0645\u0646 \u0627\u0644\u0648\u0636\u0648\u0621",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_010.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/9.json"
+    },
+    {
+        "ID": 10,
+        "TITLE": "\u0627\u0644\u0630\u0643\u0631 \u0639\u0646\u062f \u0627\u0644\u062e\u0631\u0648\u062c \u0645\u0646 \u0627\u0644\u0645\u0646\u0632\u0644",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_011.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/10.json"
+    },
+    {
+        "ID": 11,
+        "TITLE": "\u0627\u0644\u0630\u0643\u0631 \u0639\u0646\u062f \u062f\u062e\u0648\u0644 \u0627\u0644\u0645\u0646\u0632\u0644",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_012.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/11.json"
+    },
+    {
+        "ID": 12,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0627\u0644\u0630\u0647\u0627\u0628 \u0625\u0644\u0649 \u0627\u0644\u0645\u0633\u062c\u062f",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_013.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/12.json"
+    },
+    {
+        "ID": 13,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u062f\u062e\u0648\u0644 \u0627\u0644\u0645\u0633\u062c\u062f",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_014.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/13.json"
+    },
+    {
+        "ID": 14,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0627\u0644\u062e\u0631\u0648\u062c \u0645\u0646 \u0627\u0644\u0645\u0633\u062c\u062f",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_015.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/14.json"
+    },
+    {
+        "ID": 15,
+        "TITLE": "\u0623\u0630\u0643\u0627\u0631 \u0627\u0644\u0622\u0630\u0627\u0646",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_016.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/15.json"
+    },
+    {
+        "ID": 2,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u064f\u0644\u0628\u0652\u0633 \u0627\u0644\u062b\u0648\u0628",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_003.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/2.json"
+    },
+    {
+        "ID": 3,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u064f\u0644\u0628\u0652\u0633 \u0627\u0644\u062b\u0648\u0628 \u0627\u0644\u062c\u062f\u064a\u062f",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_004.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/3.json"
+    },
+    {
+        "ID": 4,
+        "TITLE": "\u0627\u0644\u062f\u0639\u0627\u0621 \u0644\u0645\u0646 \u0644\u0628\u0633 \u062b\u0648\u0628\u0627 \u062c\u062f\u064a\u062f\u0627",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_005.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/4.json"
+    },
+    {
+        "ID": 5,
+        "TITLE": "\u0645\u0627 \u064a\u0642\u0648\u0644 \u0625\u0630\u0627 \u0648\u0636\u0639 \u062b\u0648\u0628\u0647",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_006.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/5.json"
+    },
+    {
+        "ID": 16,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0627\u0644\u0627\u0633\u062a\u0641\u062a\u0627\u062d",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_017.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/16.json"
+    },
+    {
+        "ID": 17,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0627\u0644\u0631\u0643\u0648\u0639",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_018.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/17.json"
+    },
+    {
+        "ID": 18,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0627\u0644\u0631\u0641\u0639 \u0645\u0646 \u0627\u0644\u0631\u0643\u0648\u0639",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_019.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/18.json"
+    },
+    {
+        "ID": 19,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0627\u0644\u0633\u062c\u0648\u062f",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_020.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/19.json"
+    },
+    {
+        "ID": 20,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0627\u0644\u062c\u0644\u0633\u0629 \u0628\u064a\u0646 \u0627\u0644\u0633\u062c\u062f\u062a\u064a\u0646",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_021.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/20.json"
+    },
+    {
+        "ID": 21,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0633\u062c\u0648\u062f \u0627\u0644\u062a\u0644\u0627\u0648\u0629",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_022.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/21.json"
+    },
+    {
+        "ID": 22,
+        "TITLE": "\u0627\u0644\u062a\u0634\u0647\u062f",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_023.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/22.json"
+    },
+    {
+        "ID": 23,
+        "TITLE": "\u0627\u0644\u0635\u0644\u0627\u0629 \u0639\u0644\u0649 \u0627\u0644\u0646\u0628\u064a \u0628\u0639\u062f \u0627\u0644\u062a\u0634\u0647\u062f",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_024.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/23.json"
+    },
+    {
+        "ID": 24,
+        "TITLE": "\u0627\u0644\u062f\u0639\u0627\u0621 \u0628\u0639\u062f \u0627\u0644\u062a\u0634\u0647\u062f \u0627\u0644\u0623\u062e\u064a\u0631 \u0642\u0628\u0644 \u0627\u0644\u0633\u0644\u0627\u0645",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_025.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/24.json"
+    },
+    {
+        "ID": 25,
+        "TITLE": "\u0627\u0644\u0623\u0630\u0643\u0627\u0631 \u0628\u0639\u062f \u0627\u0644\u0633\u0644\u0627\u0645 \u0645\u0646 \u0627\u0644\u0635\u0644\u0627\u0629",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_026.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/25.json"
+    },
+    {
+        "ID": 26,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0635\u0644\u0627\u0629 \u0627\u0644\u0627\u0633\u062a\u062e\u0627\u0631\u0629",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_027.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/26.json"
+    },
+    {
+        "ID": 29,
+        "TITLE": "\u0627\u0644\u062f\u0639\u0627\u0621 \u0625\u0630\u0627 \u062a\u0642\u0644\u0628 \u0644\u064a\u0644\u0627",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_030.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/29.json"
+    },
+    {
+        "ID": 30,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0627\u0644\u0641\u0632\u0639 \u0641\u064a \u0627\u0644\u0646\u0648\u0645 \u0648 \u0645\u0646 \u0628\u064f\u0644\u0650\u064a\u064e \u0628\u0627\u0644\u0648\u062d\u0634\u0629",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_031.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/30.json"
+    },
+    {
+        "ID": 31,
+        "TITLE": "\u0645\u0627 \u064a\u0641\u0639\u0644 \u0645\u0646 \u0631\u0623\u0649 \u0627\u0644\u0631\u0624\u064a\u0627 \u0623\u0648 \u0627\u0644\u062d\u0644\u0645",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_032.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/31.json"
+    },
+    {
+        "ID": 32,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0642\u0646\u0648\u062a \u0627\u0644\u0648\u062a\u0631",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_033.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/32.json"
+    },
+    {
+        "ID": 33,
+        "TITLE": "\u0627\u0644\u0630\u0643\u0631 \u0639\u0642\u0628 \u0627\u0644\u0633\u0644\u0627\u0645 \u0645\u0646 \u0627\u0644\u0648\u062a\u0631",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_034.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/33.json"
+    },
+    {
+        "ID": 34,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0627\u0644\u0647\u0645 \u0648\u0627\u0644\u062d\u0632\u0646",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_035.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/34.json"
+    },
+    {
+        "ID": 35,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0627\u0644\u0643\u0631\u0628",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_036.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/35.json"
+    },
+    {
+        "ID": 36,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0644\u0642\u0627\u0621 \u0627\u0644\u0639\u062f\u0648 \u0648 \u0630\u064a \u0627\u0644\u0633\u0644\u0637\u0627\u0646",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_037.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/36.json"
+    },
+    {
+        "ID": 37,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0645\u0646 \u062e\u0627\u0641 \u0638\u0644\u0645 \u0627\u0644\u0633\u0644\u0637\u0627\u0646",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_038.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/37.json"
+    },
+    {
+        "ID": 38,
+        "TITLE": "\u0627\u0644\u062f\u0639\u0627\u0621 \u0639\u0644\u0649 \u0627\u0644\u0639\u062f\u0648",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_039.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/38.json"
+    },
+    {
+        "ID": 39,
+        "TITLE": "\u0645\u0627 \u064a\u0642\u0648\u0644 \u0645\u0646 \u062e\u0627\u0641 \u0642\u0648\u0645\u0627",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_040.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/39.json"
+    },
+    {
+        "ID": 40,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0645\u0646 \u0623\u0635\u0627\u0628\u0647 \u0648\u0633\u0648\u0633\u0629 \u0641\u064a \u0627\u0644\u0625\u064a\u0645\u0627\u0646",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_041.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/40.json"
+    },
+    {
+        "ID": 41,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0642\u0636\u0627\u0621 \u0627\u0644\u062f\u064a\u0646",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_042.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/41.json"
+    },
+    {
+        "ID": 42,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0627\u0644\u0648\u0633\u0648\u0633\u0629 \u0641\u064a \u0627\u0644\u0635\u0644\u0627\u0629 \u0648 \u0627\u0644\u0642\u0631\u0627\u0621\u0629",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_043.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/42.json"
+    },
+    {
+        "ID": 43,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0645\u0646 \u0627\u0633\u062a\u0635\u0639\u0628 \u0639\u0644\u064a\u0647 \u0623\u0645\u0631",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_044.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/43.json"
+    },
+    {
+        "ID": 44,
+        "TITLE": "\u0645\u0627 \u064a\u0642\u0648\u0644 \u0648\u064a\u0641\u0639\u0644 \u0645\u0646 \u0623\u0630\u0646\u0628 \u0630\u0646\u0628\u0627",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_045.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/44.json"
+    },
+    {
+        "ID": 45,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0637\u0631\u062f \u0627\u0644\u0634\u064a\u0637\u0627\u0646 \u0648 \u0648\u0633\u0627\u0648\u0633\u0647",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_046.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/45.json"
+    },
+    {
+        "ID": 46,
+        "TITLE": "\u0627\u0644\u062f\u0639\u0627\u0621 \u062d\u064a\u0646\u0645\u0627 \u064a\u0642\u0639 \u0645\u0627 \u0644\u0627 \u064a\u0631\u0636\u0627\u0647 \u0623\u0648 \u064f \u063a\u0644\u0628 \u0639\u0644\u0649 \u0623\u0645\u0631\u0647",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_047.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/46.json"
+    },
+    {
+        "ID": 47,
+        "TITLE": "\ufe97\ufeec\u0646\u0626\u0629 \u0627\u0644\u0645\u0648\u0644\u0648\u062f \u0644\u0647 \u0648\u062c\u0648\u0627\u0628\u0647",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_048.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/47.json"
+    },
+    {
+        "ID": 48,
+        "TITLE": "\u0645\u0627 \u064a\u0639\u0648\u0630 \u0628\u0647 \u0627\u0644\u0623\u0648\u0644\u0627\u062f",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_049.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/48.json"
+    },
+    {
+        "ID": 49,
+        "TITLE": "\u0627\u0644\u062f\u0639\u0627\u0621 \u0644\u0644\u0645\u0631\u064a\u0636 \u0641\u064a \u0639\u064a\u0627\u062f\u062a\u0647",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_050.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/49.json"
+    },
+    {
+        "ID": 50,
+        "TITLE": "\u0641\u0636\u0644 \u0639\u064a\u0627\u062f\u0629 \u0627\u0644\u0645\u0631\u064a\u0636",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_051.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/50.json"
+    },
+    {
+        "ID": 51,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0627\u0644\u0645\u0631\u064a\u0636 \u0627\u0644\u0630\u064a \u064a\u0626\u0633 \u0645\u0646 \u062d\u064a\u0627\u062a\u0647",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_052.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/51.json"
+    },
+    {
+        "ID": 52,
+        "TITLE": "\u062a\u0644\u0642\u064a\u0646 \u0627\u0644\u0645\u062d\u062a\u0636\u0631",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_053.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/52.json"
+    },
+    {
+        "ID": 53,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0645\u0646 \u0623\u0635\u064a\u0628 \u0628\u0645\u0635\u064a\u0628\u0629",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_054.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/53.json"
+    },
+    {
+        "ID": 54,
+        "TITLE": "\u0627\u0644\u062f\u0639\u0627\u0621 \u0639\u0646\u062f \u0625\u063a\u0645\u0627\u0636 \u0627\u0644\u0645\u064a\u062a",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_055.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/54.json"
+    },
+    {
+        "ID": 55,
+        "TITLE": "\u0627\u0644\u062f\u0639\u0627\u0621 \u0644\u0644\u0645\u064a\u062a \u0641\u064a \u0627\u0644\u0635\u0644\u0627\u0629 \u0639\u0644\u064a\u0647",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_056.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/55.json"
+    },
+    {
+        "ID": 56,
+        "TITLE": "\u0627\u0644\u062f\u0639\u0627\u0621 \u0644\u0644\u0641\u0631\u0637 \u0641\u064a \u0627\u0644\u0635\u0644\u0627\u0629 \u0639\u0644\u064a\u0647",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_057.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/56.json"
+    },
+    {
+        "ID": 57,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0627\u0644\u062a\u0639\u0632\u064a\u0629",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_058.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/57.json"
+    },
+    {
+        "ID": 58,
+        "TITLE": "\u0627\u0644\u062f\u0639\u0627\u0621 \u0639\u0646\u062f \u0625\u062f\u062e\u0627\u0644 \u0627\u0644\u0645\u064a\u062a \u0627\u0644\u0642\u0628\u0631",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_059.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/58.json"
+    },
+    {
+        "ID": 59,
+        "TITLE": "\u0627\u0644\u062f\u0639\u0627\u0621 \u0628\u0639\u062f \u062f\u0641\u0646 \u0627\u0644\u0645\u064a\u062a",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_060.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/59.json"
+    },
+    {
+        "ID": 60,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0632\u064a\u0627\u0631\u0629 \u0627\u0644\u0642\u0628\u0648\u0631",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_061.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/60.json"
+    },
+    {
+        "ID": 61,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0627\u0644\u0631\u064a\u062d",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_062.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/61.json"
+    },
+    {
+        "ID": 62,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0627\u0644\u0631\u0639\u062f",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_063.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/62.json"
+    },
+    {
+        "ID": 63,
+        "TITLE": "\u0645\u0646 \u0623\u062f\u0639\u064a\u0629 \u0627\u0644\u0627\u0633\u062a\u0633\u0642\u0627\u0621",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_064.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/63.json"
+    },
+    {
+        "ID": 64,
+        "TITLE": "\u0627\u0644\u062f\u0639\u0627\u0621 \u0625\u0630\u0627 \u0646\u0632\u0644 \u0627\u0644\u0645\u0637\u0631",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_065.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/64.json"
+    },
+    {
+        "ID": 65,
+        "TITLE": "\u0627\u0644\u0630\u0643\u0631 \u0628\u0639\u062f \u0646\u0632\u0648\u0644 \u0627\u0644\u0645\u0637\u0631",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_066.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/65.json"
+    },
+    {
+        "ID": 66,
+        "TITLE": "\u0645\u0646 \u0623\u062f\u0639\u064a\u0629 \u0627\u0644\u0627\u0633\u062a\u0635\u062d\u0627\u0621",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_067.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/66.json"
+    },
+    {
+        "ID": 67,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0631\u0624\u064a\u0629 \u0627\u0644\u0647\u0644\u0627\u0644",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_068.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/67.json"
+    },
+    {
+        "ID": 68,
+        "TITLE": "\u0627\u0644\u062f\u0639\u0627\u0621 \u0639\u0646\u062f \u0625\u0641\u0637\u0627\u0631 \u0627\u0644\u0635\u0627\u0626\u0645",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_069.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/68.json"
+    },
+    {
+        "ID": 69,
+        "TITLE": "\u0627\u0644\u062f\u0639\u0627\u0621 \u0642\u0628\u0644 \u0627\u0644\u0637\u0639\u0627\u0645",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_070.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/69.json"
+    },
+    {
+        "ID": 70,
+        "TITLE": "\u0627\u0644\u062f\u0639\u0627\u0621 \u0639\u0646\u062f \u0627\u0644\u0641\u0631\u0627\u063a \u0645\u0646 \u0627\u0644\u0637\u0639\u0627\u0645",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_071.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/70.json"
+    },
+    {
+        "ID": 71,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0627\u0644\u0636\u064a\u0641 \u0644\u0635\u0627\u062d\u0628 \u0627\u0644\u0637\u0639\u0627\u0645",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_072.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/71.json"
+    },
+    {
+        "ID": 72,
+        "TITLE": "\u0627\u0644\u062a\u0639\u0631\u064a\u0636 \u0628\u0627\u0644\u062f\u0639\u0627\u0621 \u0644\u0637\u0644\u0628 \u0627\u0644\u0637\u0639\u0627\u0645 \u0623\u0648 \u0627\u0644\u0634\u0631\u0627\u0628",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_073.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/72.json"
+    },
+    {
+        "ID": 73,
+        "TITLE": "\u0627\u0644\u062f\u0639\u0627\u0621 \u0625\u0630\u0627 \u0623\u0641\u0637\u0631 \u0639\u0646\u062f \u0623\u0647\u0644 \u0628\u064a\u062a",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_074.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/73.json"
+    },
+    {
+        "ID": 74,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0627\u0644\u0635\u0627\u0626\u0645 \u0625\u0630\u0627 \u062d\u0636\u0631 \u0627\u0644\u0637\u0639\u0627\u0645 \u0648\u0644\u0645 \u064a\u0641\u0637\u0631",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_075.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/74.json"
+    },
+    {
+        "ID": 75,
+        "TITLE": "\u0645\u0627 \u064a\u0642\u0648\u0644 \u0627\u0644\u0635\u0627\u0626\u0645 \u0625\u0630\u0627 \u0633\u0627\u0628\u0647 \u0623\u062d\u062f",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_076.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/75.json"
+    },
+    {
+        "ID": 76,
+        "TITLE": "\u0627\u0644\u062f\u0639\u0627\u0621 \u0639\u0646\u062f \u0631\u0624\u064a\u0629 \u0628\u0627\u0643\u0648\u0631\u0629 \u0627\u0644\u062b\u0645\u0631",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_077.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/76.json"
+    },
+    {
+        "ID": 77,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0627\u0644\u0639\u0637\u0627\u0633",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_078.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/77.json"
+    },
+    {
+        "ID": 78,
+        "TITLE": "\u0645\u0627 \u064a\u0642\u0627\u0644 \u0644\u0644\u0643\u0627\u0641\u0631 \u0625\u0630\u0627 \u0639\u0637\u0633 \u0641\u062d\u0645\u062f \u0627\u0644\u0644\u0647",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_079.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/78.json"
+    },
+    {
+        "ID": 79,
+        "TITLE": "\u0627\u0644\u062f\u0639\u0627\u0621 \u0644\u0644\u0645\u062a\u0632\u0648\u062c",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_080.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/79.json"
+    },
+    {
+        "ID": 80,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0627\u0644\u0645\u062a\u0632\u0648\u062c \u0648 \u0634\u0631\u0627\u0621 \u0627\u0644\u062f\u0627\u0628\u0629",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_081.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/80.json"
+    },
+    {
+        "ID": 81,
+        "TITLE": "\u0627\u0644\u062f\u0639\u0627\u0621 \u0642\u0628\u0644 \u0625\u062a\u064a\u0627\u0646 \u0627\u0644\u0632\u0648\u062c\u0629",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_082.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/81.json"
+    },
+    {
+        "ID": 82,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0627\u0644\u063a\u0636\u0628",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_083.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/82.json"
+    },
+    {
+        "ID": 83,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0645\u0646 \u0631\u0623\u0649 \u0645\u0628\u062a\u0644\u0649",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_084.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/83.json"
+    },
+    {
+        "ID": 84,
+        "TITLE": "\u0645\u0627 \u064a\u0642\u0627\u0644 \u0641\u064a \u0627\ufedf\ufee4\ufea0\u0644\u0633",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_085.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/84.json"
+    },
+    {
+        "ID": 85,
+        "TITLE": "\u0643\u0641\u0627\u0631\u0629 \u0627\ufedf\ufee4\ufea0\u0644\u0633",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_086.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/85.json"
+    },
+    {
+        "ID": 86,
+        "TITLE": "\u0627\u0644\u062f\u0639\u0627\u0621 \u0644\u0645\u0646 \u0642\u0627\u0644 \u063a\u0641\u0631 \u0627\u0644\u0644\u0647 \u0644\u0643",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_087.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/87.json"
+    },
+    {
+        "ID": 87,
+        "TITLE": "\u0627\u0644\u062f\u0639\u0627\u0621 \u0644\u0645\u0646 \u0635\u0646\u0639 \u0625\u0644\u064a\u0643 \u0645\u0639\u0631\u0648\u0641\u0627",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_088.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/87.json"
+    },
+    {
+        "ID": 88,
+        "TITLE": "\u0645\u0627 \u064a\u0639\u0635\u0645 \u0627\u0644\u0644\u0647 \u0628\u0647 \u0645\u0646 \u0627\u0644\u062f\u062c\u0627\u0644",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_089.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/88.json"
+    },
+    {
+        "ID": 89,
+        "TITLE": "\u0627\u0644\u062f\u0639\u0627\u0621 \u0644\u0645\u0646 \u0642\u0627\u0644 \u0625\u0646\u064a \u0623\u062d\u0628\u0643 \u0641\u064a \u0627\u0644\u0644\u0647",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_090.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/89.json"
+    },
+    {
+        "ID": 90,
+        "TITLE": "\u0627\u0644\u062f\u0639\u0627\u0621 \u0644\u0645\u0646 \u0639\u0631\u0636 \u0639\u0644\u064a\u0643 \u0645\u0627\u0644\u0647",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_091.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/90.json"
+    },
+    {
+        "ID": 91,
+        "TITLE": "\u0627\u0644\u062f\u0639\u0627\u0621 \u0644\u0645\u0646 \u0623\u0642\u0631\u0636 \u0639\u0646\u062f \u0627\u0644\u0642\u0636\u0627\u0621",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_091.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/91.json"
+    },
+    {
+        "ID": 92,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0627\u0644\u062e\u0648\u0641 \u0645\u0646 \u0627\u0644\u0634\u0631\u0643",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_092.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/92.json"
+    },
+    {
+        "ID": 93,
+        "TITLE": "\u0627\u0644\u062f\u0639\u0627\u0621 \u0644\u0645\u0646 \u0642\u0627\u0644 \u0628\u0627\u0631\u0643 \u0627\u0644\u0644\u0647 \u0641\u064a\u0643",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_094.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/93.json"
+    },
+    {
+        "ID": 94,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0643\u0631\u0627\u0647\u064a\u0629 \u0627\u0644\u0637\u064a\u0631\u0629",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_095.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/94.json"
+    },
+    {
+        "ID": 95,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0627\u0644\u0631\u0643\u0648\u0628",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_096.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/95.json"
+    },
+    {
+        "ID": 96,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0627\u0644\u0633\u0641\u0631",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_097.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/96.json"
+    },
+    {
+        "ID": 97,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u062f\u062e\u0648\u0644 \u0627\u0644\u0642\u0631\u064a\u0629 \u0623\u0648 \u0627\u0644\u0628\u0644\u062f\u0629",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_098.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/97.json"
+    },
+    {
+        "ID": 98,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u062f\u062e\u0648\u0644 \u0627\u0644\u0633\u0648\u0642",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_099.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/98.json"
+    },
+    {
+        "ID": 99,
+        "TITLE": "\u0627\u0644\u062f\u0639\u0627\u0621 \u0625\u0630\u0627 \u062a\u0639\u0633 \u0627\u0644\u0645\u0631\u0643\u0648\u0628",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_100.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/99.json"
+    },
+    {
+        "ID": 100,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0627\u0644\u0645\u0633\u0627\u0641\u0631 \u0644\u0644\u0645\u0642\u064a\u0645",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_101.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/100.json"
+    },
+    {
+        "ID": 101,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0627\u0644\u0645\u0642\u064a\u0645 \u0644\u0644\u0645\u0633\u0627\u0641\u0631",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_102.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/101.json"
+    },
+    {
+        "ID": 102,
+        "TITLE": "\u0627\u0644\u062a\u0643\u0628\u064a\u0631 \u0648 \u0627\u0644\u062a\u0633\u0628\u064a\u062d \u0641\u064a \u0633\u064a\u0631 \u0627\u0644\u0633\u0641\u0631",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_103.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/102.json"
+    },
+    {
+        "ID": 103,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0627\u0644\u0645\u0633\u0627\u0641\u0631 \u0625\u0630\u0627 \u0623\u0633\u062d\u0631",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_104.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/103.json"
+    },
+    {
+        "ID": 104,
+        "TITLE": "\u0627\u0644\u062f\u0639\u0627\u0621 \u0625\u0630\u0627 \u0646\u0632\u0644 \u0645\u062a\u0631\u0644\u0627 \u0641\u064a \u0633\u0641\u0631 \u0623\u0648 \u063a\u064a\u0631\u0647",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_105.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/104.json"
+    },
+    {
+        "ID": 105,
+        "TITLE": "\u0630\u0643\u0631 \u0627\u0644\u0631\u062c\u0648\u0639 \u0645\u0646 \u0627\u0644\u0633\u0641\u0631",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_106.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/105.json"
+    },
+    {
+        "ID": 106,
+        "TITLE": "\u0645\u0627 \u064a\u0642\u0648\u0644 \u0645\u0646 \u0623\u062a\u0627\u0647 \u0623\u0645\u0631 \u064a\u0633\u0631\u0647 \u0623\u0648 \u064a\u0643\u0631\u0647\u0647",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_107.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/106.json"
+    },
+    {
+        "ID": 107,
+        "TITLE": "\u0641\u0636\u0644 \u0627\u0644\u0635\u0644\u0627\u0629 \u0639\u0644\u0649 \u0627\u0644\u0646\u0628\u064a \u0635\u0644\u0649 \u0627\u0644\u0644\u0647 \u0639\u0644\u064a\u0647 \u0648 \u0633\u0644\u0645",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_108.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/107.json"
+    },
+    {
+        "ID": 108,
+        "TITLE": "\u0625\u0641\u0634\u0627\u0621 \u0627\u0644\u0633\u0644\u0627\u0645",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_109.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/108.json"
+    },
+    {
+        "ID": 109,
+        "TITLE": "\u0643\u064a\u0641 \u064a\u0631\u062f \u0627\u0644\u0633\u0644\u0627\u0645 \u0639\u0644\u0649 \u0627\u0644\u0643\u0627\u0641\u0631 \u0625\u0630\u0627 \u0633\u0644\u0645",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_110.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/109.json"
+    },
+    {
+        "ID": 110,
+        "TITLE": "\u0627\u0644\u062f\u0651\u064f\u0639\u0627\u0621\u064f \u0639\u0650\u0646\u0652\u062f\u064e \u0633\u064e\u0645\u064e\u0627\u0639\u0650 \u0635\u0650\u064a\u0627\u062d\u0650 \u0627\u0644\u062f\u0651\u0650\u064a\u0643\u0650 \u0648\u0646\u064e\u0647\u0650\u064a\u0642\u0650 \u0627\u0644\u0652\u062d\u0650\u0645\u064e\u0627\u0631\u0650",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_111.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/110.json"
+    },
+    {
+        "ID": 111,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0646\u0628\u0627\u062d \u0627\u0644\u0643\u0644\u0627\u0628 \u0628\u0627\u0644\u0644\u064a\u0644",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_112.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/111.json"
+    },
+    {
+        "ID": 112,
+        "TITLE": "\u0627\u0644\u062f\u0639\u0627\u0621 \u0644\u0645\u0646 \u0633\u0628\u0628\u062a\u0647",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_113.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/112.json"
+    },
+    {
+        "ID": 113,
+        "TITLE": "\u0645\u0627 \u064a\u0642\u0648\u0644 \u0627\u0644\u0645\u0633\u0644\u0645 \u0625\u0630\u0627 \u0645\u062f\u062d \u0627\u0644\u0645\u0633\u0644\u0645",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_114.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/113.json"
+    },
+    {
+        "ID": 114,
+        "TITLE": "\u0645\u0627 \u064a\u0642\u0648\u0644 \u0627\u0644\u0645\u0633\u0644\u0645 \u0625\u0630\u0627 \u0632\u0643\u064a ",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_115.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/114.json"
+    },
+    {
+        "ID": 115,
+        "TITLE": "\u0643\u064a\u0641 \u064a\u0644\u0628\u064a \u0627\u0644\u0645\u062d\u0631\u0645 \u0641\u064a \u0627\u0644\u062d\u062c \u0623\u0648 \u0627\u0644\u0639\u0645\u0631\u0629 \u061f",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_116.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/115.json"
+    },
+    {
+        "ID": 116,
+        "TITLE": "\u0627\u0644\u062a\u0643\u0628\u064a\u0631 \u0625\u0630\u0627 \u0623\u062a\u0649 \u0627\u0644\u0631\u0643\u0646 \u0627\u0644\u0623\u0633\u0648\u062f",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_117.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/116.json"
+    },
+    {
+        "ID": 117,
+        "TITLE": "\u0627\u0644\u062f\u0639\u0627\u0621 \u0628\u064a\u0646 \u0627\u0644\u0631\u0643\u0646 \u0627\u0644\u064a\u0645\u0627\u0646\u064a \u0648\u0627\u0644\u062d\u062c\u0631 \u0627\u0644\u0623\u0633\u0648\u062f",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_118.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/117.json"
+    },
+    {
+        "ID": 118,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0627\u0644\u0648\u0642\u0648\u0641 \u0639\u0644\u0649 \u0627\u0644\u0635\u0641\u0627 \u0648\u0627\u0644\u0645\u0631\u0648\u0629",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_119.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/118.json"
+    },
+    {
+        "ID": 119,
+        "TITLE": "\u0627\u0644\u062f\u0639\u0627\u0621 \u064a\u0648\u0645 \u0639\u0631\u0641\u0629",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_120.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/119.json"
+    },
+    {
+        "ID": 120,
+        "TITLE": "\u0627\u0644\u0630\u0643\u0631 \u0639\u0646\u062f \u0627\u0644\u0645\u0634\u0639\u0631 \u0627\u0644\u062d\u0631\u0627\u0645",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_121.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/120.json"
+    },
+    {
+        "ID": 121,
+        "TITLE": "\u0627\u0644\u062a\u0643\u0628\u064a\u0631 \u0639\u0646\u062f \u0631\u0645\u064a \u0627\u0644\u062c\u0645\u0627\u0631 \u0645\u0639 \u0643\u0644 \u062d\u0635\u0627\u0629",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_122.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/121.json"
+    },
+    {
+        "ID": 122,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0627\u0644\u062a\u0639\u062c\u0628 \u0648\u0627\u0644\u0623\u0645\u0631 \u0627\u0644\u0633\u0627\u0631",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_123.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/122.json"
+    },
+    {
+        "ID": 123,
+        "TITLE": "\u0645\u0627 \u064a\u0641\u0639\u0644 \u0645\u0646 \u0623\u062a\u0627\u0647 \u0623\u0645\u0631 \u064a\u0633\u0631\u0647",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_124.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/123.json"
+    },
+    {
+        "ID": 124,
+        "TITLE": "\u0645\u0627 \u064a\u0642\u0648\u0644 \u0645\u0646 \u0623\u062d\u0633 \u0648\u062c\u0639\u0627 \u0641\u064a \u062c\u0633\u062f\u0647",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_125.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/124.json"
+    },
+    {
+        "ID": 125,
+        "TITLE": "\u062f\u0639\u0627\u0621 \u0645\u0646 \u062e\u0634\u064a \u0623\u0646 \u064a\u0635\u064a\u0628 \u0634\u064a\u0626\u0627 \u0628\u0639\u064a\u0646\u0647",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_126.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/125.json"
+    },
+    {
+        "ID": 126,
+        "TITLE": "\u0645\u0627 \u064a\u0642\u0627\u0644 \u0639\u0646\u062f \u0627\u0644\u0641\u0632\u0639",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_127.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/126.json"
+    },
+    {
+        "ID": 127,
+        "TITLE": "\u0645\u0627 \u064a\u0642\u0648\u0644 \u0639\u0646\u062f \u0627\u0644\u0630\u0628\u062d \u0623\u0648 \u0627\u0644\u0646\u062d\u0631",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_128.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/127.json"
+    },
+    {
+        "ID": 128,
+        "TITLE": "\u0645\u0627 \u064a\u0642\u0648\u0644 \u0644\u0631\u062f \u0643\u064a\u062f \u0645\u0631\u062f\u0629 \u0627\u0644\u0634\u064a\u0627\u0637\u064a\u0646",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_129.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/128.json"
+    },
+    {
+        "ID": 129,
+        "TITLE": "\u0627\u0644\u0627\u0633\u062a\u063a\u0641\u0627\u0631 \u0648 \u0627\u0644\u062a\u0648\u0628\u0629",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_130.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/129.json"
+    },
+    {
+        "ID": 130,
+        "TITLE": "\u0641\u0636\u0644 \u0627\u0644\u062a\u0633\u0628\u064a\u062d \u0648 \u0627\u0644\u062a\u062d\u0645\u064a\u062f\u060c \u0648 \u0627\u0644\u062a\u0647\u0644\u064a\u0644\u060c \u0648 \u0627\u0644\u062a\u0643\u0628\u064a\u0631",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_131.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/130.json"
+    },
+    {
+        "ID": 131,
+        "TITLE": "\u0643\u064a\u0641 \u0643\u0627\u0646 \u0627\u0644\u0646\u0628\u064a \u064a\u0633\u0628\u062d\u061f",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_132.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/131.json"
+    },
+    {
+        "ID": 132,
+        "TITLE": "\u0645\u0646 \u0623\u0646\u0648\u0627\u0639 \u0627\u0644\u062e\u064a\u0631 \u0648\u0627\u0644\u0622\u062f\u0627\u0628 \u0627\u0644\u062c\u0627\u0645\u0639\u0629",
+        "AUDIO_URL": "http:\/\/www.hisnmuslim.com\/audio\/ar\/ar_7esn_AlMoslem_by_Doors_133.mp3",
+        "TEXT": "http:\/\/www.hisnmuslim.com\/api\/ar\/132.json"
+    }
+]
