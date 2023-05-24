@@ -1,4 +1,4 @@
-# Hisnu Muslim
+# Hisnu Mus-lim
 
 ## About
 A sample website to show adhkar from [hisnu-muslim API](https://www.hisnmuslim.com/)
